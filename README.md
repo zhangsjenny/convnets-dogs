@@ -10,5 +10,5 @@ Image classifier for different dog breeds
 Project is created with:
 * Python version: 3.6
 * Tensorflow version: 
-* Ament library version: 999
+* Keras version: 
 ## Setup
